@@ -33,15 +33,6 @@ Sou graduado em Ciência da Computação pela UNIJORGE. Minha paixão é transfo
 
 ---
 
-###  GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gnichet5&show_icons=true&theme=neutral&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnichet5&layout=compact&theme=neutral"/>
-</div>
-
----
-
 ###  Vamos conversar?
 
 <div align="center">
