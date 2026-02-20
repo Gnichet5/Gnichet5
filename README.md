@@ -16,7 +16,7 @@ Sou graduado em Ciência da Computação pela UNIJORGE. Minha paixão é transfo
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
