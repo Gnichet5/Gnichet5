@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Guilherme%20Peniche&fontSize=70&animation=fadeIn&fontAlignY=40&theme=neutral" />
 
-### 👨‍💻 Cientista da Computação | Desenvolvedor Full Stack
+###  Cientista da Computação | Desenvolvedor Full Stack
 **Especializado em Soluções Inteligentes e Otimização de Sistemas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-peniche-323553264)
@@ -12,12 +11,8 @@
 
 </div>
 
-### 🚀 Sobre Mim
-Olá! Sou graduado em Ciência da Computação pela UNIJORGE. Minha paixão é transformar dados e lógica em soluções eficientes. Tenho experiência prática no desenvolvimento de sistemas full-stack e aplicação de Inteligência Artificial para resolução de problemas complexos.
-
-- 🎓 **Foco atual:** Buscando minha primeira oportunidade como Desenvolvedor Junior / Full Stack.
-- 🧠 **Destaque Técnico:** Desenvolvimento de modelos de detecção de fraude e análise de dados sísmicos.
-- ✍️ **Curiosidade:** Nas horas vagas, sou escritor e entusiasta de contextos históricos.
+###  Sobre Mim
+Sou graduado em Ciência da Computação pela UNIJORGE. Minha paixão é transformar dados e lógica em soluções eficientes. Tenho experiência prática no desenvolvimento de sistemas full-stack e aplicação de Inteligência Artificial para resolução de problemas complexos.
 
 ---
 
@@ -31,14 +26,14 @@ Olá! Sou graduado em Ciência da Computação pela UNIJORGE. Minha paixão é t
 
 ---
 
-### 📂 Projetos em Destaque
+###  Projetos em Destaque
 * **Detecção de Fraude (TCC):** Sistema inteligente utilizando Optuna para otimização de hiperparâmetros.
 * **Análise Sísmica:** Pipeline em Python para modelagem de eventos com distribuição de Poisson.
 * **Gestão de Condomínios:** Aplicação Full Stack robusta em React e Java.
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gnichet5&show_icons=true&theme=neutral&include_all_commits=true&count_private=true"/>
@@ -47,7 +42,7 @@ Olá! Sou graduado em Ciência da Computação pela UNIJORGE. Minha paixão é t
 
 ---
 
-### 📫 Vamos conversar?
+###  Vamos conversar?
 
 <div align="center">
 
